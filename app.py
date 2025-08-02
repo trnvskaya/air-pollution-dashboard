@@ -7,6 +7,13 @@ import streamlit as st
 data = pd.read_csv('data/data_cleaned.csv')
 
 st.title("Air Pollution Disease Dashboard")
+st.markdown("""This interactive dashboard visualizes the burden of disease attributed to **air pollution**, using open data published by the **World Health Organization (WHO)**.
+
+You can explore trends in **Disability-Adjusted Life Years (DALYs)** per 100,000 people by filtering for:
+- Country
+- Disease type
+- Sex
+- Year""")
 
 # Sidebar filters
 countries = st.multiselect("Select country/countries", options=sorted(data['Location'].unique()), default=["Japan"])
