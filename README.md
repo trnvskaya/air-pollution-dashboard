@@ -78,7 +78,7 @@ air-pollution-analysis/
 
 The app is deployed on Streamlit Community Cloud and can be accessed here:
 
-[https://air-polution-interactive-visualization.streamlit.app/](https://air-polution-interactive-visualization.streamlit.app/)
+[https://air-pollution-interactive-visualization.streamlit.app/](https://air-pollution-interactive-visualization.streamlit.app/)
 
 ---
 
