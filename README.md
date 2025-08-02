@@ -14,6 +14,7 @@ As we can see, it would be harder to destinguish 2 categories precisely, as one 
 ### **Technology used**
 - EDA in Python (numpy, pandas, plotly)
 - Jupyter notebook
+- Streamlit web application
 
 
 
