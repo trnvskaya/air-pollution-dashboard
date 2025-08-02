@@ -23,7 +23,7 @@ air-pollution-analysis/
 ├── app.py
 ├── data/
 │   └── data.csv            # given raw dataset
-│   └── cleaned_data.csv    # dataset after preprocessing
+│   └── data_cleaned.csv    # dataset after preprocessing
 ├── notebooks/
 │   └── data_analysis.ipynb    # notebook for preprocessing
 ├── requirements.txt
