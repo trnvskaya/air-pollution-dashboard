@@ -46,7 +46,7 @@ air-pollution-analysis/
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/air-pollution-analysis.git
+   git clone https://github.com/trnvskaya/air-pollution-analysis.git
    cd air-pollution-analysis
    ```
 
